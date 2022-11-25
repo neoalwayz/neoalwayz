@@ -1,7 +1,7 @@
 [![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)(https://www.linkedin.com/in/neoalwayz/)
 
 <h1 align="center">Hi 👋, I'm Nitish</h1>
-<h3 align="center">Masters in Technology(M.Tech) in Artificial Intelligence</h3>
+<h3 align="center">Master of Technology (M.Tech) Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neoalwayz&label=Profile%20views&color=0e75b6&style=flat" alt="neoalwayz" /> </p>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw1MAGKhMw8FiLDpeFYn-mKP&ust=1669501849627000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKj075exyvsCFQAAAAAdAAAAABAd">
