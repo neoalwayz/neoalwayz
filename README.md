@@ -1,6 +1,6 @@
 ![MasterHead](https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif)(https://www.linkedin.com/in/neoalwayz/)
 
-<h1 align="center">Hi 👋, I'm Nitish</h1>
+<h1 align="center">Hi 👋, I'm Nitish. I'm Data Scientist</h1>
 <h3 align="center">Master of Technology (M.Tech) Artificial Intelligence</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=neoalwayz&label=Profile%20views&color=0e75b6&style=flat" alt="neoalwayz" /> </p>
