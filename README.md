@@ -1,4 +1,4 @@
-![MasterHead]([https://engineering.giphy.com/wp-content/uploads/2020/12/vectors.gif])
+![MasterHead]([https://engineering.giphy.com/wp-content/uploads/2020/12/vectors.gif)
 (https://www.linkedin.com/in/neoalwayz/)
 
 <h1 align="center">Hi 👋, I'm Nitish. I'm Data Scientist</h1>
