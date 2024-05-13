@@ -1,4 +1,5 @@
-![MasterHead]([https://images.squarespace-cdn.com/content/v1/5feb53185d3dab691b47361b/1609930650139-9NRI63XUJ29Y7E9LEA9G/12eca-machine-learning.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zilvitismazeikiai.lt%2FTwitter-To-Gif-Download-Colaboratory-709909.html&psig=AOvVaw0TivE67nLR6rpEMs7HbJlw&ust=1715681954970000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDb572zioYDFQAAAAAdAAAAABAt))(https://www.linkedin.com/in/neoalwayz/)
+![MasterHead]([https://engineering.giphy.com/wp-content/uploads/2020/12/vectors.gif])
+(https://www.linkedin.com/in/neoalwayz/)
 
 <h1 align="center">Hi 👋, I'm Nitish. I'm Data Scientist</h1>
 <h3 align="center">Master of Technology (M.Tech) Artificial Intelligence</h3>
