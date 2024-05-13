@@ -10,13 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/neoalwayz" target="blank"><img src="https://img.shields.io/twitter/follow/neoalwayz?logo=twitter&style=for-the-badge" alt="neoalwayz" /></a> </p>
 
-- 🔭 I’m currently working on **Smart-Contracts + Blockchain + AI**
+- 🔭 I’m currently working on **GenAI**
 
-- 🌱 I’m currently learning **Convolutional Neural Networks (CNNs) Long Short Term Memory Networks (LSTMs) Recurrent Neural Networks (RNNs) Generative Adversarial Networks (GANs)**
+- 🌱 My daily work includes  **Building End-to-End Modeling using Pytorch, Tensorflow for Convolutional Neural Networks (CNNs), Generative Adversarial Networks (GANs) etc.**
 
-- 👯 I’m looking to collaborate on **Data Science Project**
+- 👯 I’m looking to collaborate on **GenAI Project**
 
-- 🤝 I’m looking for help with **Role Based Access Control using Machine learning in Smart Contract**
+- 🤝 I’m looking for help with **Building Reproducible LLMs**
 
 - 💬 Ask me about **Machine learning, Deep learning, Programming**
 
