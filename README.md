@@ -1,40 +1,122 @@
-![MasterHead](https://engineering.giphy.com/wp-content/uploads/2020/12/vectors.gif)
-(https://www.linkedin.com/in/neoalwayz/)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Nitish. I'm Data Scientist</h1>
-<h3 align="center">Master of Technology (M.Tech) Artificial Intelligence</h3>
+# Hi, I'm Nitish 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neoalwayz&label=Profile%20views&color=0e75b6&style=flat" alt="neoalwayz" /> </p>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F567523990538356835%2F&psig=AOvVaw1MAGKhMw8FiLDpeFYn-mKP&ust=1669501849627000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKj075exyvsCFQAAAAAdAAAAABAd">
+### Geospatial AI | Generative AI | Earth Observation | Data Science
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neoalwayz" alt="neoalwayz" /></a> </p>
+Building AI-powered geospatial intelligence platforms using
+Satellite Imagery • Computer Vision • Remote Sensing • LLMs • MLOps
 
-<p align="left"> <a href="https://twitter.com/neoalwayz" target="blank"><img src="https://img.shields.io/twitter/follow/neoalwayz?logo=twitter&style=for-the-badge" alt="neoalwayz" /></a> </p>
+[LinkedIn](https://linkedin.com/in/neoalwayz) •
+[Email](mailto:neoalwayz@gmail.com)
 
-- 🔭 I’m currently working on **GenAI**
+</div>
 
-- 🌱 My daily work includes  **Building End-to-End Modeling using Pytorch, Tensorflow for Convolutional Neural Networks (CNNs), Generative Adversarial Networks (GANs) etc.**
+---
 
-- 👯 I’m looking to collaborate on **GenAI Project**
+## 🚀 About Me
 
-- 🤝 I’m looking for help with **Building Reproducible LLMs**
+I am an AI Engineer and Data Scientist specializing in:
 
-- 💬 Ask me about **Machine learning, Deep learning, Programming**
+- 🌍 Geospatial AI & Earth Observation
+- 🛰️ Satellite Image Analytics
+- 🤖 Generative AI & LLM Applications
+- 🧠 Deep Learning & Computer Vision
+- 📊 Spatial Data Science
+- ☁️ Cloud-Native AI Platforms
+- 🗺️ GIS & Remote Sensing Solutions
 
-- 📫 How to reach me **neoalwayz@gmail.com**
+Currently working on large-scale geospatial intelligence systems involving:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/neoalwayz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neoalwayz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/neoalwayz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neoalwayz" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/neoalwayz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="neoalwayz" height="30" width="40" /></a>
+- Sand Encroachment Monitoring
+- Forest & Vegetation Analytics
+- Disaster Risk Assessment
+- Snow Cover Mapping
+- Flood & GLOF Monitoring
+- AI-Powered GeoGPT Systems
+
+---
+
+## 🏆 Featured Projects
+
+### 🌵 Sand Encroachment Intelligence Platform
+AI-powered monitoring and prediction of desert sand movement using multispectral satellite imagery and deep learning.
+
+### 🛰️ GeoGPT
+Conversational Generative AI platform for Earth Observation and GIS analytics.
+
+### 🌲 Tree Census Intelligence System
+Large-scale urban tree mapping, inventory management and analytics.
+
+### ❄️ Snow Monitoring System
+Automated snow-cover extraction and area estimation from Sentinel-2 imagery.
+
+### 🌊 Flood & GLOF Analytics
+Early warning and inundation assessment using DEM, SAR and multispectral datasets.
+
+---
+
+## 🛠 Tech Stack
+
+### Artificial Intelligence
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+### Geospatial Technologies
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge)
+![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge)
+
+### Generative AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
+
+### MLOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=neoalwayz&show_icons=true&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=neoalwayz&theme=tokyonight" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neoalwayz&show_icons=true&locale=en&layout=compact" alt="neoalwayz" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neoalwayz&layout=compact&theme=tokyonight" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neoalwayz&show_icons=true&locale=en" alt="neoalwayz" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neoalwayz&" alt="neoalwayz" /></p>
+## 🌎 Areas of Interest
+
+- Generative AI for Geospatial Intelligence
+- Foundation Models for Earth Observation
+- Satellite Image Understanding
+- Multi-modal AI Systems
+- Agentic GIS Platforms
+- Remote Sensing Analytics
+- Large Scale Environmental Monitoring
+
+---
+
+## 📫 Let's Connect
+
+📧 neoalwayz@gmail.com
+
+💼 LinkedIn:
+https://linkedin.com/in/neoalwayz
+
+---
+
+### "Transforming Earth Observation Data into Actionable Intelligence"
+
+</div>
