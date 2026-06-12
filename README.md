@@ -6,7 +6,7 @@
 
 
 
-### Data Scientist | Machine Learning Engineer | Computer Vision | Generative AI
+### Data Scientist | Machine Learning | Computer Vision | Generative AI | Geo Foundation Models
 
 
 
